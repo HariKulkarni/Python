@@ -1,0 +1,10 @@
+name=input("enter student name ")
+rollno=int(input("enter roll number "))
+sub1=float(input("enter first subject marks "))
+sub2=float(input("enter second subject marks "))
+sub3=float(input("enter third subject marks "))
+sum=sub1+sub2+sub3
+print(f"Total marks={sum} ")
+max=300
+per=(sum/max)*100
+print(f"Total percentahge={per} ")

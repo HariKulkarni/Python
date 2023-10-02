@@ -1,0 +1,10 @@
+a=int(input("Enter First No"))
+b=int(input("Enter seocnd No"))
+sum=a+b
+sub=a-b
+prod=a*b
+div=a/b
+print(f"sum of two nums={sum}")
+print(f"sum of two nums={sub}")
+print(f"sum of two nums={prod}")
+print(f"sum of two nums={div}")
